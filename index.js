@@ -4,6 +4,7 @@ const logger = require('morgan');
 const path = require('path');
 const homeRoute = require('./routes/home.js');
 const apiRoute = require('./routes/api.js');
+const bodyParser = require('body-parser');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
