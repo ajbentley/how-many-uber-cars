@@ -1,4 +1,4 @@
-// attribution - Bobby King - Open Weather Data API (GA lab)
+// attribution - Bobby King - Open Weather Data API (GA lab) --> https://git.generalassemb.ly/wdi-nyc-60/open_weather_search-client_fetch
 
 const fetch = require('node-fetch');
 
