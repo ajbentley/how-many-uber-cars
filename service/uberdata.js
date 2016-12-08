@@ -1,3 +1,5 @@
+// attribution - Bobby King - Open Weather Data API (GA lab)
+
 const fetch = require('node-fetch');
 
 function requestData(req, res, next) {
